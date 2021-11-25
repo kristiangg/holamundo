@@ -30,3 +30,6 @@ def borrar_contacto(nombre: str):
     f.write("")
     f.close()
     return {"borrado":"ok"}
+
+
+    
